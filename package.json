@@ -1,0 +1,18 @@
+{
+  "name": "uniswap-clone-aggregator",
+  "version": "0.1.0",
+  "description": "An experimental contract that aims to perform aggregated swaps among Uniswap-like dexes with minimum gas premium.",
+  "main": "index.js",
+  "author": "Federico Luzzi <fedeluzzi00@gmail.com>",
+  "license": "GPL-v3.0",
+  "private": true,
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.0",
+    "@openzeppelin/contracts": "^3.4.0",
+    "chai": "^4.2.0",
+    "ethereum-waffle": "^3.0.0",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.0.11"
+  }
+}
